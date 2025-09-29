@@ -1,0 +1,14 @@
+/Users/nina/C#/obj/Debug/net9.0/C#.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nina/C#/obj/Debug/net9.0/C#.AssemblyInfoInputs.cache
+/Users/nina/C#/obj/Debug/net9.0/C#.AssemblyInfo.cs
+/Users/nina/C#/obj/Debug/net9.0/C#.csproj.CoreCompileInputs.cache
+/Users/nina/C#/bin/Debug/net9.0/C#
+/Users/nina/C#/bin/Debug/net9.0/C#.deps.json
+/Users/nina/C#/bin/Debug/net9.0/C#.runtimeconfig.json
+/Users/nina/C#/bin/Debug/net9.0/C#.dll
+/Users/nina/C#/bin/Debug/net9.0/C#.pdb
+/Users/nina/C#/obj/Debug/net9.0/C#.dll
+/Users/nina/C#/obj/Debug/net9.0/refint/C#.dll
+/Users/nina/C#/obj/Debug/net9.0/C#.pdb
+/Users/nina/C#/obj/Debug/net9.0/C#.genruntimeconfig.cache
+/Users/nina/C#/obj/Debug/net9.0/ref/C#.dll
