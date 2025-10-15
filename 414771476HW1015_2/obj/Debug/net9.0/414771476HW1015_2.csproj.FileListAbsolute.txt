@@ -1,0 +1,14 @@
+/Users/nina/C# new/414771476HW1015_2/bin/Debug/net9.0/414771476HW1015_2
+/Users/nina/C# new/414771476HW1015_2/bin/Debug/net9.0/414771476HW1015_2.deps.json
+/Users/nina/C# new/414771476HW1015_2/bin/Debug/net9.0/414771476HW1015_2.runtimeconfig.json
+/Users/nina/C# new/414771476HW1015_2/bin/Debug/net9.0/414771476HW1015_2.dll
+/Users/nina/C# new/414771476HW1015_2/bin/Debug/net9.0/414771476HW1015_2.pdb
+/Users/nina/C# new/414771476HW1015_2/obj/Debug/net9.0/414771476HW1015_2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nina/C# new/414771476HW1015_2/obj/Debug/net9.0/414771476HW1015_2.AssemblyInfoInputs.cache
+/Users/nina/C# new/414771476HW1015_2/obj/Debug/net9.0/414771476HW1015_2.AssemblyInfo.cs
+/Users/nina/C# new/414771476HW1015_2/obj/Debug/net9.0/414771476HW1015_2.csproj.CoreCompileInputs.cache
+/Users/nina/C# new/414771476HW1015_2/obj/Debug/net9.0/414771476HW1015_2.dll
+/Users/nina/C# new/414771476HW1015_2/obj/Debug/net9.0/refint/414771476HW1015_2.dll
+/Users/nina/C# new/414771476HW1015_2/obj/Debug/net9.0/414771476HW1015_2.pdb
+/Users/nina/C# new/414771476HW1015_2/obj/Debug/net9.0/414771476HW1015_2.genruntimeconfig.cache
+/Users/nina/C# new/414771476HW1015_2/obj/Debug/net9.0/ref/414771476HW1015_2.dll
