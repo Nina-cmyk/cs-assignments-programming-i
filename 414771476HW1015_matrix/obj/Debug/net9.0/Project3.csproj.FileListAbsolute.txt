@@ -1,0 +1,14 @@
+/Users/nina/C# new/Project3/bin/Debug/net9.0/Project3
+/Users/nina/C# new/Project3/bin/Debug/net9.0/Project3.deps.json
+/Users/nina/C# new/Project3/bin/Debug/net9.0/Project3.runtimeconfig.json
+/Users/nina/C# new/Project3/bin/Debug/net9.0/Project3.dll
+/Users/nina/C# new/Project3/bin/Debug/net9.0/Project3.pdb
+/Users/nina/C# new/Project3/obj/Debug/net9.0/Project3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nina/C# new/Project3/obj/Debug/net9.0/Project3.AssemblyInfoInputs.cache
+/Users/nina/C# new/Project3/obj/Debug/net9.0/Project3.AssemblyInfo.cs
+/Users/nina/C# new/Project3/obj/Debug/net9.0/Project3.csproj.CoreCompileInputs.cache
+/Users/nina/C# new/Project3/obj/Debug/net9.0/Project3.dll
+/Users/nina/C# new/Project3/obj/Debug/net9.0/refint/Project3.dll
+/Users/nina/C# new/Project3/obj/Debug/net9.0/Project3.pdb
+/Users/nina/C# new/Project3/obj/Debug/net9.0/Project3.genruntimeconfig.cache
+/Users/nina/C# new/Project3/obj/Debug/net9.0/ref/Project3.dll

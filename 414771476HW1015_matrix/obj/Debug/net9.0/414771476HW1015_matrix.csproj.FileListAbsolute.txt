@@ -1,0 +1,14 @@
+/Users/nina/C# new/414771476HW1015_matrix/bin/Debug/net9.0/414771476HW1015_matrix
+/Users/nina/C# new/414771476HW1015_matrix/bin/Debug/net9.0/414771476HW1015_matrix.deps.json
+/Users/nina/C# new/414771476HW1015_matrix/bin/Debug/net9.0/414771476HW1015_matrix.runtimeconfig.json
+/Users/nina/C# new/414771476HW1015_matrix/bin/Debug/net9.0/414771476HW1015_matrix.dll
+/Users/nina/C# new/414771476HW1015_matrix/bin/Debug/net9.0/414771476HW1015_matrix.pdb
+/Users/nina/C# new/414771476HW1015_matrix/obj/Debug/net9.0/414771476HW1015_matrix.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nina/C# new/414771476HW1015_matrix/obj/Debug/net9.0/414771476HW1015_matrix.AssemblyInfoInputs.cache
+/Users/nina/C# new/414771476HW1015_matrix/obj/Debug/net9.0/414771476HW1015_matrix.AssemblyInfo.cs
+/Users/nina/C# new/414771476HW1015_matrix/obj/Debug/net9.0/414771476HW1015_matrix.csproj.CoreCompileInputs.cache
+/Users/nina/C# new/414771476HW1015_matrix/obj/Debug/net9.0/414771476HW1015_matrix.dll
+/Users/nina/C# new/414771476HW1015_matrix/obj/Debug/net9.0/refint/414771476HW1015_matrix.dll
+/Users/nina/C# new/414771476HW1015_matrix/obj/Debug/net9.0/414771476HW1015_matrix.pdb
+/Users/nina/C# new/414771476HW1015_matrix/obj/Debug/net9.0/414771476HW1015_matrix.genruntimeconfig.cache
+/Users/nina/C# new/414771476HW1015_matrix/obj/Debug/net9.0/ref/414771476HW1015_matrix.dll
