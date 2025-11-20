@@ -1,0 +1,14 @@
+/Users/nina/C# new/414771476_林采霓_1121_01/bin/Debug/net9.0/414771476_林采霓_1121_01
+/Users/nina/C# new/414771476_林采霓_1121_01/bin/Debug/net9.0/414771476_林采霓_1121_01.deps.json
+/Users/nina/C# new/414771476_林采霓_1121_01/bin/Debug/net9.0/414771476_林采霓_1121_01.runtimeconfig.json
+/Users/nina/C# new/414771476_林采霓_1121_01/bin/Debug/net9.0/414771476_林采霓_1121_01.dll
+/Users/nina/C# new/414771476_林采霓_1121_01/bin/Debug/net9.0/414771476_林采霓_1121_01.pdb
+/Users/nina/C# new/414771476_林采霓_1121_01/obj/Debug/net9.0/414771476_林采霓_1121_01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nina/C# new/414771476_林采霓_1121_01/obj/Debug/net9.0/414771476_林采霓_1121_01.AssemblyInfoInputs.cache
+/Users/nina/C# new/414771476_林采霓_1121_01/obj/Debug/net9.0/414771476_林采霓_1121_01.AssemblyInfo.cs
+/Users/nina/C# new/414771476_林采霓_1121_01/obj/Debug/net9.0/414771476_林采霓_1121_01.csproj.CoreCompileInputs.cache
+/Users/nina/C# new/414771476_林采霓_1121_01/obj/Debug/net9.0/414771476_林采霓_1121_01.dll
+/Users/nina/C# new/414771476_林采霓_1121_01/obj/Debug/net9.0/refint/414771476_林采霓_1121_01.dll
+/Users/nina/C# new/414771476_林采霓_1121_01/obj/Debug/net9.0/414771476_林采霓_1121_01.pdb
+/Users/nina/C# new/414771476_林采霓_1121_01/obj/Debug/net9.0/414771476_林采霓_1121_01.genruntimeconfig.cache
+/Users/nina/C# new/414771476_林采霓_1121_01/obj/Debug/net9.0/ref/414771476_林采霓_1121_01.dll
